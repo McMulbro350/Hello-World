@@ -8,3 +8,4 @@ I'm Henry McMullin, I'm learning about using AI and entrepreneurship skills to c
 This is a test repository for my internship assignment
 
 * Commit 1: Done
+* Commit 2: Done
