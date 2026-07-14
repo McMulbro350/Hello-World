@@ -9,4 +9,4 @@ This is a test repository for my internship assignment
 
 * Commit 1: Done
 * Commit 2: Done
-* COmit 3, 4, and 5: DOne!
+* COmit 3, 4, and 5: Done!
